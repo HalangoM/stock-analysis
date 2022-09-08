@@ -1,7 +1,7 @@
 # All Stocks Analysis
 
 ##Overview
-**What we have here is a file, with a click of a button, can analyze the entire dataset. However, it could only go through a dozen of the stock markets data. 
+**What we have here is a file, with a VBA script that can analyze the entire dataset. However, it could only go through a dozen of the stock markets data. 
 **So a refactor was done to expand the dataset to include the thousands of stocks, and a more effecient search.
 
 ##Performance Review
@@ -19,5 +19,5 @@ The first file below shows the file before being refractored and the second file
     The disadvantages would be the errors yo may come across. When changing or adding coding, things can get disorganized. I found that even though the coding was correct, 
     the program did not want to run. when I just started from scratch again and put in the same info I did before, it run fine.
 
-###How do these Pros and Cons appy when refactoring
+###How do the Pros and Cons apply when refactoring
 ***
